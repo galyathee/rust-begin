@@ -1,7 +1,5 @@
-# REPO rust-begin
-## First steps with the RUST programming language
-
-# First thing first: read https://en.wikipedia.org/wiki/Rust_(programming_language)
+# REPO rust-begin - First steps with the RUST programming language
+First thing first: read https://en.wikipedia.org/wiki/Rust_(programming_language)
 
 ## A bit of history: what is RUST
 Rust is a systems programming language that was first introduced in 2010 by Mozilla Research. It is designed to be a safe, concurrent, and practical language that emphasizes performance and memory safety. Rust has gained popularity for its ability to provide low-level control over system resources while preventing common programming errors like null pointer dereferences, buffer overflows, and data races.
