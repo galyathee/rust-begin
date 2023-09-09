@@ -1,7 +1,8 @@
 // Adapted from https://doc.rust-lang.org/rust-by-example/primitives.html
 
-// Unused variables Variables
+// Illustrate unused variables naming prefixing with an underscore '_'
 
+// set pub to use in main.rs
 pub fn main() {
     // Variables can be type annotated.
     let _binary1: bool = true;
